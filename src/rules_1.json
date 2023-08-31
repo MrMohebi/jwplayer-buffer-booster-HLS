@@ -1,0 +1,9 @@
+[{
+  "id" : 1,
+  "priority": 1,
+  "action" : { "type": "redirect", "redirect": { "extensionPath": "/provider.hlsjs.js" } },
+  "condition" : {
+    "urlFilter" : "provider.hlsjs.js",
+    "resourceTypes": ["script"]
+  }
+}]
