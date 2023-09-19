@@ -1,6 +1,6 @@
 # jwplayer-buffer-booster-HLS
 
-jwplayer has its own limit in buffering the video. By this chrome extension the buffered time goes up to 20 min and you won't loss your temper on lagging videos. 
+jwplayer has its own limit in buffering the video. By this chrome extension the buffered time goes up to 20 min and you won't lose your temper on lagging videos. 
 
 ## Usage 
 
